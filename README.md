@@ -29,7 +29,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I first configured roles by going to the "Roles" section in the Admin Panel. I created a Supreme Admin role that had access to everything. Then I configured departments for ticket visibility (Help Desk vs SysAdmins vs Networking) in the "Departments" section in the Admin Panel.
 </p>
 <br />
 
