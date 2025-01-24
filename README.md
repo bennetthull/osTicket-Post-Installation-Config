@@ -34,7 +34,7 @@ I first configured roles by going to the "Roles" section in the Admin Panel. I c
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Ug3TJdw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Next I created 2 agents in different departments with different permissions in the "Agents" section of the Admin Panel. Then I created a User in the "Users" section of the Agent Panel. 
