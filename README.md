@@ -42,9 +42,9 @@ Next I created 2 agents in different departments with different permissions in t
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/5FkxaYE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Here I configured SLAs (service level agreements) .
+Here I configured SLAs (service level agreements) in the Admin Panel. I set 3 different severity levels and configured their grace periods based on that. Lastly, I generated some help topics in the Admin Panel. 
 </p>
 <br />
