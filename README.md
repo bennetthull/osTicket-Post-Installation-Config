@@ -26,7 +26,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/i6Gy0T4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 I first configured roles by going to the "Roles" section in the Admin Panel. I created a Supreme Admin role that had access to everything. Then I configured departments for ticket visibility (Help Desk vs SysAdmins vs Networking) in the "Departments" section in the Admin Panel. Lastly, I configured teams (so I can pull Agents from different departments) in the "Teams" section in the Admin Panel.
