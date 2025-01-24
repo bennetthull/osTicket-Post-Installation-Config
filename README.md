@@ -21,7 +21,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Configure Departments 
 - Configure Teams
 - Configure Agents and Users
-- Configure SLA and Help Topics (for when users create tickets)
+- Configure SLAs and Help Topics (for when users create tickets)
 
 <h2>Configuration Steps</h2>
 
@@ -37,7 +37,7 @@ I first configured roles by going to the "Roles" section in the Admin Panel. I c
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next I created 2 agents in different departments with different permissions in the "Agents" section of the Admin Panel.
+Next I created 2 agents in different departments with different permissions in the "Agents" section of the Admin Panel. Then I created a User in the "Users" section of the Agent Panel. 
 </p>
 <br />
 
@@ -45,6 +45,6 @@ Next I created 2 agents in different departments with different permissions in t
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Here I configured SLAs (service level agreements) .
 </p>
 <br />
